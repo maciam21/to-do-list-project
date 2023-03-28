@@ -34,4 +34,4 @@ This code is implementing a simple to-do list using HTML and JavaScript. Let's b
 
 - Finally, there are two event listeners added using the `addEventListener` method. One listens for the form submission event and calls the `handleFormSubmit` function. The other listens for the click event on the clear button and calls the `clearCompletedTasks` function.
 
-### Overall, this code creates a simple to-do list that allows users to add new tasks, mark them as completed, and clear completed tasks. I hope this explanation helps you understand the code better!
+Overall, this code creates a simple to-do list that allows users to add new tasks, mark them as completed, and clear completed tasks. I hope this explanation helps you understand the code better!
